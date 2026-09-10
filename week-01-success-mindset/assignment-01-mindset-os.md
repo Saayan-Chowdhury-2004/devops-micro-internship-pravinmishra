@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+Practice makes a man perfect they say, yet the sentence is not true as it's not complete. Only with the right practice will a man become perfect. Hardwork won't lead a man to success if the efforts are futile.
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Others can cloud your judgement about people pretty easily, if you're not careful.
 
 ### Evidence from my life
 
-Add your answer here...
+Good people and relations walked out of life when I turned off my senses and ignored them, because I let people's opinion pollute my mind. 
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+People wake up with different feelings everyday.
 
 ### Evidence from my life
 
-Add your answer here...
+A movie might give you motivation for a week. A compliment, for a day. It will wear off gradually. Hence don't work making motivation as your basis. Become disciplined. 
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+"Jo dikhta hai, wahi bikta hai." which translates to - Publicity sells.
 
 ### Evidence from my life
 
-Add your answer here...
+Be as good as you can in real life but if you don't show your work, someone else will be there who will get all the laurel even with talents not more than yours.
 
 ---
 

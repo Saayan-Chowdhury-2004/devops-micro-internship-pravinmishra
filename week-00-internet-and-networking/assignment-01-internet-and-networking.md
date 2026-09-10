@@ -25,7 +25,7 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
+![Task 1 Screenshot](screenshots/ChatGPT_response.png)
 
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
@@ -34,7 +34,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learnt to use ChatGPT effectively by writing clear prompts based on which I got desirable results. I also gainded a foundational understanding on protocol and concepts related to it, including how it handles different jobs - IP handles addressing, TCP handles reliable delivery and HTTP handles web communication.
 
 ---
 
@@ -59,7 +59,11 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When a user anywhere in the world types www.epicreads.com in their browser, the request first goes through a process called DNS a.k.a. Domain Name System, which basically translates the domain name into an IP address so the internet knows where to find the server. The data then travels across different networks using packet switching, where the information is split into small packets that can take different routes and reach the destination even if some paths are congested or fail.
+
+Each packet carries IP addresses so it knows where it's coming from and where it's going. On top of that, TCP i.e. Transmission Control Protocol makes sure all the packets arrive correctly and in the right order. The actual content you see on the website is fetched using HTTP/HTTPS, which not only handles the request and response between your browser and the server but also encrypts the data so it's secure.
+
+So in simple terms, all these protocols work together behind the scenes to make sure your friend's website hosted in Finland is reachable, loads properly and stays secure no matter where the user is in the world.
 
 ---
 
@@ -91,7 +95,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram](screenshots/architecture.png)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -102,18 +106,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* React
+* Angular
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js
+* Django
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MySQL
+* PostgreSQL
 
 ---
 
@@ -142,7 +146,8 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS i.e. Domain Name System is basically like a *phonebook of the internet.* Instead of remembering an IP address like 52.172.142.222, we can simply type epicreads.com and *DNS finds the IP address of the server for us.* 
+In my friend's case, an *A record* should be used as it *connects a domain name to an IPv4 address.* So when someone enters epicreads.com, DNS looks up its A record and returns 52.172.142.222, allowing the browser to connect to the server.
 
 ---
 
@@ -178,7 +183,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![VS Code Setup Screenshot](screenshots/VSCode.png)
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
@@ -218,7 +223,7 @@ Add the following credit note at the end of your post:
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://lnkd.in/p/dnSJCw3g
 ```
 
 ---
@@ -227,7 +232,28 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+Completed the first assignment of the DevOps Micro Internship (DMI) by Pravin Mishra 🚀
+
+This assignment was a great introduction to some of the fundamentals that sit behind modern DevOps and software systems. Here’s what I worked through:
+
+1️⃣ ChatGPT
+I started by using ChatGPT as a technical learning assistant to understand concepts from the ground up. Instead of just getting definitions, I focused on breaking technical concepts into simpler explanations and connecting them with real-world examples.
+
+2️⃣ Internet & Networking
+I learned the basics of how communication happens across the internet, especially the role of protocols, packet switching, IP addresses, TCP/IP and HTTP/HTTPS. Understanding protocols as a set of rules that allow devices to communicate made the rest of the networking concepts much easier to connect.
+
+3️⃣ App Architecture
+I explored the difference between two-tier and three-tier application architectures. I understood how a frontend can communicate directly with a database in a two-tier setup, while a three-tier architecture introduces a backend layer for handling APIs, business logic and database communication.
+
+4️⃣ DNS
+I learned how DNS (Domain Name System) connects human-readable domain names to IP addresses. I also understood why an A record is used when pointing a domain to an IPv4 address.
+
+5️⃣ VS Code Setup
+For the final part, I worked with the Visual Studio Code development environment. Since I already had VS Code installed, this part was more about confirming my existing development setup and being ready to continue with the upcoming hands-on tasks.
+
+Overall, this assignment strengthened my understanding of the fundamentals behind how applications communicate, how they are structured and how users ultimately access them over the internet. More importantly, it gave me a better foundation to build upon as I move deeper into DevOps, cloud and automation. 🚀
+
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/Saayan-Chowdhury-2004.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3
 
 ---
 
@@ -235,19 +261,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+I understood the fundamental concept of Internet and Networking, App architecture and stack as well as Domain and DNS.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Troubleshooting; due to my insufficient knowledge of AWS.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Dive deeper into using ChatGPT to its fullest and also tune my learning approach with the AI Tools.
 
 ---
 
