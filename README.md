@@ -130,7 +130,7 @@ Week 00 → Internet & Networking Basics
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://lnkd.in/p/dnSJCw3g | https://medium.com/@saayan.elite50/from-curiosity-to-building-intelligent-systems-my-journey-into-ai-software-and-devops-45e93f48dadf |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/saayan-chowdhury-pop2004_saayan-chowdhury-dmi-self-paced-engineer-activity-7503886124856094720-CsHI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKNFu0BzZBIwP_0LZpQ5nnIuLGv6FIOItw | https://medium.com/@saayan.elite50/from-curiosity-to-building-intelligent-systems-my-journey-into-ai-software-and-devops-45e93f48dadf |
 | 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |

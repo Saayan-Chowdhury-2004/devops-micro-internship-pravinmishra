@@ -223,7 +223,7 @@ Add the following credit note at the end of your post:
 Paste your LinkedIn post URL here:
 
 ```text
-https://lnkd.in/p/dnSJCw3g
+https://www.linkedin.com/posts/saayan-chowdhury-pop2004_saayan-chowdhury-dmi-self-paced-engineer-activity-7503886124856094720-CsHI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKNFu0BzZBIwP_0LZpQ5nnIuLGv6FIOItw
 ```
 
 ---
