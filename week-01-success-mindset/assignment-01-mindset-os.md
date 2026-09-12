@@ -247,7 +247,7 @@ Choose books that improve:
 4. Deep Work — Cal Newport
 ![Assignment 5 screenshot](screenshots/4.jpg)
 
-5. Make It Stick — Peter C. Brown et al.
+5. Make It Stick — Peter C. Brown
 ![Assignment 5 screenshot](screenshots/5.jpg)
 
 6. The Obstacle Is the Way — Ryan Holiday
