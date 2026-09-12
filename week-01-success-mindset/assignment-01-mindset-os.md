@@ -237,22 +237,31 @@ Choose books that improve:
 
 1. How to Win Friends and Influence People — Dale Carnegie
 ![Assignment 5 screenshot](screenshots/1.jpg)
+
 2. Atomic Habits — James Clear
 ![Assignment 5 screenshot](screenshots/2.jpg)
+
 3. The 7 Habits of Highly Effective People — Stephen R. Covey
 ![Assignment 5 screenshot](screenshots/3.jpg)
+
 4. Deep Work — Cal Newport
 ![Assignment 5 screenshot](screenshots/4.jpg)
+
 5. Make It Stick — Peter C. Brown et al.
 ![Assignment 5 screenshot](screenshots/5.jpg)
+
 6. The Obstacle Is the Way — Ryan Holiday
 ![Assignment 5 screenshot](screenshots/6.jpg)
+
 7. The Comfort Crisis — Michael Easter
 ![Assignment 5 screenshot](screenshots/7.jpg)
+
 8. The Personal MBA — Josh Kaufman
 ![Assignment 5 screenshot](screenshots/8.jpg)
+
 9. The Psychology of Money — Morgan Housel
 ![Assignment 5 screenshot](screenshots/9.jpg)
+
 10. The Almanack of Naval Ravikant — Eric Jorgenson
 ![Assignment 5 screenshot](screenshots/10.jpg)
 
@@ -457,8 +466,8 @@ Paste your LinkedIn post link here:
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **[ADD LINK HERE](https://www.linkedin.com/posts/saayan-chowdhury-pop2004_ai-aiengineering-softwareengineering-activity-7504551097332723712-Yth3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKNFu0BzZBIwP_0LZpQ5nnIuLGv6FIOItw)**  
-- Blog / Medium : **[ADD LINK HERE](https://medium.com/@saayanchowdhury/from-student-developer-to-ai-systems-engineer-f3a2b4932071?sharedUserId=saayanchowdhury)**  
+- LinkedIn Post URL: **[Saayan Chowdhury](https://www.linkedin.com/posts/saayan-chowdhury-pop2004_ai-aiengineering-softwareengineering-activity-7504551097332723712-Yth3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKNFu0BzZBIwP_0LZpQ5nnIuLGv6FIOItw)**  
+- Blog / Medium : **[Saayan Chowdhury](https://medium.com/@saayanchowdhury/from-student-developer-to-ai-systems-engineer-f3a2b4932071?sharedUserId=saayanchowdhury)**  
 
 ---
 
