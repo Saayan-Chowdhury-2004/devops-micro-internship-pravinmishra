@@ -153,13 +153,29 @@ Hashtags:
 
 ## Your Article
 
-Add your answer here...
+From Student Developer to AI Systems Engineer
+
+By 2031, Saayan Chowdhury wasn't just someone who had learned how technology works. He was an engineer known for building AI-powered systems that actually ran in production and held up under real usage.
+
+It started with curiosity — programming, AI, the mechanics of large software systems. At D.I.A.T.M. Rajbandh, that curiosity turned into projects that went past the scope of any assignment. Flying Eye, his autonomous drone-based detection and remote-sensing system, earned his team runner-up at the **Smart India Hackathon 2024 Grand Finale.** That result set the tone for how he'd approach engineering from then on: build things that solve real problems, not things that just look good in a demo.
+
+The years after that expanded what he could do. **ResearchOS** was one such project that showed he could work across FastAPI, React and semantic search. Whereas **MailOverTel** combined Telegram, Gmail SMTP, Docker and locally hosted AI models into a working email-automation system. His GitHub stopped looking like a folder of coursework and started looking like a record of shipped, documented, deployable work.
+
+By 2031 he was working as an AI Systems Engineer — wiring AI into backend services, APIs, cloud infrastructure and automation pipelines. The systems he had built carried real traffic, not just test data. His grounding in Docker and DevOps meant his job didn't stop at writing code: deployment, monitoring, CI/CD, uptime — all of it was his to own.
+
+That growth showed up publicly too. He wrote about AI systems, architecture, and DevOps in a way that made dense material readable for someone just starting out. His repositories weren't side projects anymore — they were part of how people recognized his work.
+
+He had also stopped being a solo contributor. He led small teams on AI automation and infrastructure work, reviewed code, made architecture calls and helped newer engineers move past tutorials into building things that shipped. He showed up in developer communities, passed on what he had learned to students starting where he once did and backed his hands-on experience with cloud, DevOps and AI certifications — not as a substitute for the work, but as proof alongside it.
+
+The real shift in Saayan 2.0 wasn't a title or a tech stack. It was that he had stopped learning technologies in isolation and started engineering systems that connected. The student who used to ask how something worked was now the one deciding how the pieces fit together.
+
+By 2031, the story was consistent across everything he had put out. He hadn't just prepared to become an engineer. He had become one — with AI, software systems and DevOps at the center of it.
 
 ### Public Link
 
 Paste your link here:
 
-`Add your URL here`
+`https://medium.com/@saayan.elite50/from-student-developer-to-ai-systems-engineer-f3a2b4932071`
 
 ---
 
@@ -191,7 +207,9 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+Yes.
+
+There have been times I took shortcuts, especially when I was under pressure to finish an academic task or project quickly. Even when the shortcut got the work done, I never felt fully satisfied with it. Usually there was a mix of guilt and stress, because I knew I'd focused more on getting the result than on actually understanding or doing things properly. It made me realize that shortcuts save time in the moment, but they leave you with a feeling that you didn't really earn the outcome. That feeling is what pushed me to value actually learning and building things myself.
 
 ---
 
@@ -217,16 +235,26 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. How to Win Friends and Influence People — Dale Carnegie
+![Assignment 5 screenshot](screenshots/1.jpg)
+2. Atomic Habits — James Clear
+![Assignment 5 screenshot](screenshots/2.jpg)
+3. The 7 Habits of Highly Effective People — Stephen R. Covey
+![Assignment 5 screenshot](screenshots/3.jpg)
+4. Deep Work — Cal Newport
+![Assignment 5 screenshot](screenshots/4.jpg)
+5. Make It Stick — Peter C. Brown et al.
+![Assignment 5 screenshot](screenshots/5.jpg)
+6. The Obstacle Is the Way — Ryan Holiday
+![Assignment 5 screenshot](screenshots/6.jpg)
+7. The Comfort Crisis — Michael Easter
+![Assignment 5 screenshot](screenshots/7.jpg)
+8. The Personal MBA — Josh Kaufman
+![Assignment 5 screenshot](screenshots/8.jpg)
+9. The Psychology of Money — Morgan Housel
+![Assignment 5 screenshot](screenshots/9.jpg)
+10. The Almanack of Naval Ravikant — Eric Jorgenson
+![Assignment 5 screenshot](screenshots/10.jpg)
 
 ---
 
@@ -255,16 +283,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* New technical skills learned and practiced each week
+* Personal projects completed and documented
+* Consistency in achieving my weekly goals and personal commitments
+* Time spent learning DevOps, Cloud Computing, and AI
+* Physical health, sleep, exercise, and overall energy
+* Quality of my relationships and professional network
+* Quality of my focus and time management
+* Quality of my mindset to counter setbacks
+* Quality of soft skills and clear communication
+* Progress toward achieving my Computer Science degree
 
 ---
 
@@ -290,7 +318,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes
 
 ---
 
@@ -308,7 +336,57 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday–Thursday: 60 min deep work
+
+9:00–10:00 PM
+
+Focus on one primary technical track at a time:
+
+AI systems
+Backend/API engineering
+Docker/DevOps
+Projects
+
+Rule: Build > watch tutorials.
+If you need to learn something, learn it only because the current task requires it.
+
+Friday: 30–45 min — Communication
+
+9:00–9:45 PM
+
+Alternate between:
+
+Writing a technical explanation
+Improving your LinkedIn/GitHub presence
+Reading aloud / explaining a technical concept
+Documenting something you've built
+
+The goal is to become someone who can explain engineering clearly, not just do it.
+
+Saturday: 1.5–2 hr — DMI + Project
+
+Flexible, preferably afternoon/evening
+
+1 hr: DMI work
+30–60 min: Apply what you learned to your own project.
+
+Don't let DMI become something you complete only for the certificate. Extract something useful from every session and put it into your actual engineering work.
+
+Sunday: 30 min — Weekly Review
+
+8:00–8:30 PM
+
+Answer only these:
+
+1. What did I actually build this week?
+
+2. What did I learn that I can demonstrate?
+
+3. Where did I waste time?
+
+4. What is the ONE thing that matters next week?
+
+Then schedule that week's four deep-work sessions.
 
 ---
 
@@ -316,11 +394,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Everyday for 3 hours excluding live sessions and class
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+I will literally commit part of every single day to DMI work. At least a session every day.
 
 ---
 
@@ -334,7 +412,10 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+* Discipline: Prioritize long-term goals over temporary comfort or distractions.
+* Accountability: Review my daily goals at the start of each day and track whether I completed them.
+* Entertainment: Reserve movies, gaming and other high-dopamine activities for scheduled rest periods.
+* Social Media: Use social media only for learning, networking or publishing content.
 
 ---
 
@@ -342,28 +423,42 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I don't have an information problem. I have an execution problem.
+
+I keep looking for better systems, better tools, better projects and better ways to learn. That's useful up to a point but it can also become a sophisticated form of procrastination. I already know enough to make meaningful progress. What I need now is to stop constantly optimizing the plan and start consistently doing the work.
+
+My potential doesn't matter much if my daily actions don't match it.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I get excited by ambitious ideas and then spread my attention across too many things.
+
+I can understand something quickly and even make a good plan for it but maintaining boring consistent effort is harder. I tend to chase novelty and complexity instead of repeatedly doing the fundamentals that actually compound.
+
+The uncomfortable truth is that I sometimes mistake thinking about becoming capable for becoming capable.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Every day before going to bed, I will do a 30-minute execution review.
+
+20 minutes: work on the single most important skill/project I am currently pursuing — no tutorials unless absolutely necessary.
+
+5 minutes: write what I actually accomplished, not what I intended to accomplish.
+
+5 minutes: decide tomorrow's single most important task and write the exact first action required to start it.
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/saayan-chowdhury-pop2004_ai-aiengineering-softwareengineering-activity-7504551097332723712-Yth3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKNFu0BzZBIwP_0LZpQ5nnIuLGv6FIOItw`
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: **[ADD LINK HERE](https://www.linkedin.com/posts/saayan-chowdhury-pop2004_ai-aiengineering-softwareengineering-activity-7504551097332723712-Yth3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKNFu0BzZBIwP_0LZpQ5nnIuLGv6FIOItw)**  
+- Blog / Medium : **[ADD LINK HERE](https://medium.com/@saayanchowdhury/from-student-developer-to-ai-systems-engineer-f3a2b4932071?sharedUserId=saayanchowdhury)**  
 
 ---
 
