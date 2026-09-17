@@ -132,7 +132,7 @@ Week 01 → Success Mindset
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/saayan-chowdhury-pop2004_saayan-chowdhury-dmi-self-paced-engineer-activity-7503886124856094720-CsHI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKNFu0BzZBIwP_0LZpQ5nnIuLGv6FIOItw | https://medium.com/@saayan.elite50/from-curiosity-to-building-intelligent-systems-my-journey-into-ai-software-and-devops-45e93f48dadf |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/saayan-chowdhury-pop2004_ai-aiengineering-softwareengineering-activity-7504551097332723712-Yth3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKNFu0BzZBIwP_0LZpQ5nnIuLGv6FIOItw | https://medium.com/@saayanchowdhury/from-student-developer-to-ai-systems-engineer-f3a2b4932071?sharedUserId=saayanchowdhury |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
+| 02 | Agentic AI with Claude Code | 🔄 In Progress | 🔄 In Progress | https://www.linkedin.com/posts/saayan-chowdhury-pop2004_dmibypravinmishra-agenticai-claudecode-activity-7506309797068128256-wgw_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKNFu0BzZBIwP_0LZpQ5nnIuLGv6FIOItw | https://medium.com/@saayanchowdhury/reflection-week-2-understanding-agentic-ai-and-modern-devops-workflows-7993a2d3a114 |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
