@@ -46,7 +46,7 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+![Screenshot 1](screenshots/medium.png)
 
 ---
 
@@ -54,7 +54,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`Add your URL here`
+`https://medium.com/@saayanchowdhury/reflection-week-2-be980ecdb5aa?sharedUserId=saayanchowdhury`
 
 ---
 
@@ -70,7 +70,7 @@ Share your Week 2 learning publicly on LinkedIn.
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+![Screenshot 2](screenshots/linked.png)
 
 ---
 
@@ -79,14 +79,39 @@ Add your screenshot here.
 LinkedIn Post Content (copy-paste here):
 
 ```
-Paste your LinkedIn post content here
+✅ Week 2 of the DevOps Micro Internship is complete.
+
+I mostly thought of AI as something I could ask for help with — write some code, explain something, fix an error and move on.
+This week I started looking at something different:
+What happens when you actually design the environment around the AI?
+I worked with concepts like:
+→ Subagents — giving different agents specific responsibilities instead of making one agent do everything.
+→ Hooks & Permissions — putting boundaries around what an agent can access or execute. An agent knowing how to run terraform destroy doesn't mean it should be allowed to run it.
+→ MCP — connecting agents to external tools and capabilities so they can interact with the systems they actually need to work with.
+→ Memory — allowing important project decisions and context to carry across sessions instead of repeatedly explaining the same project from scratch.
+
+At some point, the interaction stopped feeling like:
+"Here's my project. Let me explain everything again."
+and started feeling more like:
+"Navigate into this folder; Track changelogs; Continue from where we left off."
+That small difference makes AI-assisted development feel very different.
+I also realized that I can leverage the power of mighty open source models for my work, shift as I see fit without having to worry about providing any context.
+
+That has probably been my biggest mindset shift this week.
+I'm starting to think less about what AI can do and more about how I should design a system in which AI can work safely and effectively.
+Week 2 complete. Thanks to our mentor Pravin Mishra and co-mentor Anjana Muthunayake, my growth is positively incrementing.
+
+P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by Pravin Mishra (https://lnkd.in/dCiKWudM). My graded progress is public: https://lnkd.in/dHdxPWG2 · Start your DevOps journey: https://lnkd.in/d2XrBC2m
+
+#AgenticAI #AI #DevOps #ClaudeCode #AIAgents #MCP #SoftwareEngineering #CloudComputing #DevOpsEngineering #DMIByPravinMishra
+
 ```
 
 ---
 
 ### LinkedIn Post Link:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/saayan-chowdhury-pop2004_agenticai-ai-devops-ugcPost-7508213217379168256-pkHf/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKNFu0BzZBIwP_0LZpQ5nnIuLGv6FIOItw`
 
 ---
 
@@ -102,15 +127,15 @@ Paste your LinkedIn post content here
 
 # Completion Checklist
 
-* [ ] Blog written with required structure
-* [ ] Blog includes at least 2–3 Week 2 topics
-* [ ] Blog is publicly accessible
-* [ ] LinkedIn post created
-* [ ] Required P.S. line included
-* [ ] LinkedIn post content copied in submission field
-* [ ] Blog link added
-* [ ] LinkedIn post link added
-* [ ] Screenshots added to GitHub repo
+* [✅] Blog written with required structure
+* [✅] Blog includes at least 2–3 Week 2 topics
+* [✅] Blog is publicly accessible
+* [✅] LinkedIn post created
+* [✅] Required P.S. line included
+* [✅] LinkedIn post content copied in submission field
+* [✅] Blog link added
+* [✅] LinkedIn post link added
+* [✅] Screenshots added to GitHub repo
 
 ---
 

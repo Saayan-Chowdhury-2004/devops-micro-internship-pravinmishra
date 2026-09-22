@@ -34,13 +34,13 @@ Teach Claude three specific facts about the project and instruct it to save them
 
 #### Screenshot 2 — Claude confirming the memory was saved
 
-![Screenshot 1](screenshots/mem2.png)
+![Screenshot 2](screenshots/mem2.png)
 
 ---
 
 #### Screenshot 3 — The `MEMORY.md` file open in VS Code showing the saved content
 
-![Screenshot 1](screenshots/mem3.png)
+![Screenshot 3](screenshots/mem3.png)
 
 ---
 
@@ -54,7 +54,7 @@ Terminate the current Claude Code session and restart it to ensure memory is the
 
 #### Screenshot 4 — VS Code reopened with a fresh Claude Code session showing no previous conversation
 
-![Screenshot 1](screenshots/mem4.png)
+![Screenshot 4](screenshots/mem4.png)
 
 ---
 
@@ -68,13 +68,13 @@ Run three tests that prove Claude remembers what you told it — without you say
 
 #### Screenshot 5 — Claude recalling hero section colors
 
-![Screenshot 1](screenshots/mem5.png)
+![Screenshot 5](screenshots/mem5.png)
 
 ---
 
 #### Screenshot 6 — Claude refusing JavaScript request based on memory rule
 
-![Screenshot 1](screenshots/mem5.png)
+![Screenshot 6](screenshots/mem5.png)
 
 ---
 
