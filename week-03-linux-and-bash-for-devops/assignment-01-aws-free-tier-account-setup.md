@@ -20,19 +20,23 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 #### Question 1 — What is an AWS account, and why do you need it at this stage?
 
-Write your answer here.
+An AWS account is my personal access to Amazon Web Services, a cloud computing platform. It gives me access to resources like virtual servers, storage, databases and networking services. Think of it as my identity and workspace in AWS — basically a container where my cloud resources live.
+
+At this stage, an AWS account is needed to get hands-on experience with real cloud infrastructure. It allows me to practice DevOps tasks like creating servers, managing resources and deploying applications. This helps bridge the gap between theory and real-world implementation.
 
 ---
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
-Write your answer here.
+AWS Free Tier allows new users to use selected AWS services at no cost within specific usage limits. It is useful for learning and experimenting without immediately worrying about charges. Most Free Tier benefits are available for 6 months from the date the AWS account is created.
 
 ---
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-Write your answer here.
+AWS Lambda: Free up to 1 million invocations.
+Amazon DynamoDB: Free up to 25 GB of storage.
+Amazon SNS: Free up to 1 million publishes.
 
 ---
 
@@ -56,7 +60,7 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 
 #### Screenshot 1 — AWS Account page showing account name (email may be blurred)
 
-Add your screenshot here.
+![Screenshot 1](screenshots/aws1.png)
 
 ---
 
@@ -70,7 +74,7 @@ Share your AWS cloud onboarding progress on WhatsApp Status and provide evidence
 
 ### Screenshot 2 — Published WhatsApp Status showing your AWS onboarding message and leaderboard progress link visible
 
-Add your screenshot here.
+![Screenshot 1](screenshots/aws_wh.png)
 
 ---
 
@@ -85,13 +89,13 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1 answers written in own words
-- [ ] AWS Free Tier account created successfully
-- [ ] Signed in to AWS Management Console
-- [ ] Screenshot 1 of AWS Account page captured (full name visible, no sensitive data)
-- [ ] Task 4: AWS onboarding progress shared on WhatsApp Status
-- [ ] Screenshot 2 of published WhatsApp Status captured with leaderboard progress link visible
-- [ ] All required screenshots added to repository
+- [✅] Task 1 answers written in own words
+- [✅] AWS Free Tier account created successfully
+- [✅] Signed in to AWS Management Console
+- [✅] Screenshot 1 of AWS Account page captured (full name visible, no sensitive data)
+- [✅] Task 4: AWS onboarding progress shared on WhatsApp Status
+- [✅] Screenshot 2 of published WhatsApp Status captured with leaderboard progress link visible
+- [✅] All required screenshots added to repository
 
 ---
 
