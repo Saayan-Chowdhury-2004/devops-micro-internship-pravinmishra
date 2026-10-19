@@ -36,19 +36,19 @@ Answer the following in your own words:
 
 **1. What is Bash?**
 
-Add your answer here.
+Bash is a command-line shell and scripting language that lets us run commands and automate tasks on Linux and other Unix-based systems.
 
 ---
 
 **2. What is the difference between shell and Bash?**
 
-Add your answer here.
+A shell is a program that lets us interact with the operating system through commands. Bash is one specific type of shell that also supports scripting and automation.
 
 ---
 
 **3. Why is it important to confirm the Bash version before writing scripts?**
 
-Add your answer here.
+Different Bash versions support different features. Checking the version beforehand helps ensure that the script will work properly in the environment where it is being executed.
 
 ---
 
@@ -84,19 +84,19 @@ Answer the following in your own words:
 
 **1. What is the purpose of `#!/bin/bash`?**
 
-Add your answer here.
+It tells the operating system to use Bash to execute the script when I run it as an executable.
 
 ---
 
 **2. Why do we use `chmod +x` before running a script?**
 
-Add your answer here.
+It gives the file executable permission, allowing me to run it directly using ./script.sh.
 
 ---
 
 **3. What is the difference between running a script using `./script.sh` and `bash script.sh`?**
 
-Add your answer here.
+./script.sh runs the file as an executable using the interpreter specified in its shebang. On the other hand, bash script.sh explicitly runs the script using Bash without requiring executable permission.
 
 ---
 
@@ -126,19 +126,19 @@ Answer the following in your own words:
 
 **1. What is a variable in Bash?**
 
-Add your answer here.
+A variable is like a container that stores a value which can be used later in the script.
 
 ---
 
 **2. Why should we avoid spaces around the `=` sign when creating variables?**
 
-Add your answer here.
+In Bash, spaces around the = sign make variable assignment invalid. Bash treats the parts as separate commands or arguments instead of assigning the value to the variable.
 
 ---
 
 **3. How do you access the value stored inside a Bash variable?**
 
-Add your answer here.
+By using the $ symbol before the variable name. For example, $full_name gives me the value stored in the full_name variable.
 
 ---
 
@@ -168,25 +168,25 @@ Answer the following in your own words:
 
 **1. What is an array in Bash?**
 
-Add your answer here.
+Unlike a normal variable that usually stores a single value, an array stores multiple values under one name.
 
 ---
 
 **2. Why are arrays useful in scripts?**
 
-Add your answer here.
+Arrays let us store multiple values in one place, making it easier to organize, access and process lists of data without creating separate variables for every value.
 
 ---
 
 **3. What does `"${tools[@]}"` mean?**
 
-Add your answer here.
+It represents all the elements stored in the tools array, allowing me to access each element separately.
 
 ---
 
 **4. What is the purpose of the `for` loop in this script?**
 
-Add your answer here.
+The for loop goes through each item in the array and executes the same block of commands for every item. This avoids writing the same code multiple times.
 
 ---
 
@@ -216,25 +216,25 @@ Answer the following in your own words:
 
 **1. What is a loop?**
 
-Add your answer here.
+A loop is a programming structure that repeats a set of commands until all items are processed or a specified condition is met.
 
 ---
 
 **2. Why do we use loops in Bash scripting?**
 
-Add your answer here.
+We use loops to automate repetitive tasks instead of writing the same commands again and again.
 
 ---
 
 **3. How many times did the loop run in your script?**
 
-Add your answer here.
+The loop ran five times because the array contained five values.
 
 ---
 
 **4. What would you change if you wanted the loop to run 10 times?**
 
-Add your answer here.
+I would add five more values to the list, covering numbers 6 to 10, so that the loop could process all ten values.
 
 ---
 
@@ -270,25 +270,25 @@ Answer the following in your own words:
 
 **1. What does `-d` check in Bash?**
 
-Add your answer here.
+-d checks whether the specified path exists and is a directory.
 
 ---
 
 **2. What does `-f` check in Bash?**
 
-Add your answer here.
+-f checks whether the specified path exists and is a regular file rather than a directory.
 
 ---
 
 **3. Why should file and directory paths be stored in variables?**
 
-Add your answer here.
+Storing paths in variables makes the script easier to read, update and reuse. If a path changes, I only need to update it in one place instead of modifying it throughout the script.
 
 ---
 
 **4. What happens if the file does not exist?**
 
-Add your answer here.
+If the file doesn't exist, the -f condition evaluates to false and the else block executes. The script then displays a message indicating that the file does not exist.
 
 ---
 
@@ -330,25 +330,25 @@ Answer the following in your own words:
 
 **1. What is the purpose of if-else in Bash?**
 
-Add your answer here.
+if-else statements allow a script to make decisions based on conditions and execute different commands depending on whether those conditions are true or false.
 
 ---
 
 **2. What does `-ge` mean?**
 
-Add your answer here.
+-ge means greater than or equal to. It is used to compare integer values in Bash.
 
 ---
 
 **3. Why should conditions be tested with different values?**
 
-Add your answer here.
+Testing conditions with different values helps ensure that the script handles different scenarios correctly and produces the expected output.
 
 ---
 
 **4. How can conditionals help in automation scripts?**
 
-Add your answer here.
+Conditionals allow automation scripts to make decisions instead of executing the same commands every time. They can check the current state of the system and perform the appropriate action based on the result.
 
 ---
 
@@ -384,25 +384,29 @@ Answer the following in your own words:
 
 **1. What is a function in Bash?**
 
-Add your answer here.
+A function in Bash is a named block of commands that can be reused whenever needed, instead of writing the same code multiple times.
 
 ---
 
 **2. Why are functions useful in scripts?**
 
-Add your answer here.
+Functions reduce repetition and make scripts easier to read, organize and maintain. They also allow me to reuse the same block of code whenever required.
 
 ---
 
 **3. Which functions did you create in this script?**
 
-Add your answer here.
+I created four functions:
+1. print_header displays the assignment header.
+2. print_user_details displays my full name and the assignment title.
+3. check_files checks whether the required directory and file exist.
+4. print_tools loops through the array and displays each tool one by one.
 
 ---
 
 **4. How does this final script combine variables, arrays, loops, conditionals, files, and functions?**
 
-Add your answer here.
+The script combines different Bash concepts to complete the task. Variables store my name, the assignment title and the file and directory paths. An array holds the list of tools, while a loop goes through the array and displays each tool. Conditionals check whether the required directory and file exist before displaying the appropriate messages. Finally, functions organize the different operations into reusable blocks, making the script easier to read, manage and maintain.
 
 ---
 
