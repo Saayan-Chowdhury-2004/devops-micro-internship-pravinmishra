@@ -76,8 +76,8 @@ Week 01 → Success Mindset
 Week 02 → Agentic AI with Claude Code
 [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/)
 
-<!-- Week 03 → Linux & Bash for DevOps -->
-<!-- [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) -->
+Week 03 → Linux & Bash for DevOps
+[![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/)
 
 <!-- Week 04 → Git & GitHub -->
 <!-- [![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/) -->
@@ -133,7 +133,7 @@ Week 02 → Agentic AI with Claude Code
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/saayan-chowdhury-pop2004_saayan-chowdhury-dmi-self-paced-engineer-activity-7503886124856094720-CsHI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKNFu0BzZBIwP_0LZpQ5nnIuLGv6FIOItw | https://medium.com/@saayan.elite50/from-curiosity-to-building-intelligent-systems-my-journey-into-ai-software-and-devops-45e93f48dadf |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/saayan-chowdhury-pop2004_ai-aiengineering-softwareengineering-activity-7504551097332723712-Yth3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKNFu0BzZBIwP_0LZpQ5nnIuLGv6FIOItw | https://medium.com/@saayanchowdhury/from-student-developer-to-ai-systems-engineer-f3a2b4932071?sharedUserId=saayanchowdhury |
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/saayan-chowdhury-pop2004_dmibypravinmishra-agenticai-claudecode-activity-7506309797068128256-wgw_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKNFu0BzZBIwP_0LZpQ5nnIuLGv6FIOItw | https://medium.com/@saayanchowdhury/reflection-week-2-understanding-agentic-ai-and-modern-devops-workflows-7993a2d3a114 |
-| 03 | Linux & Bash for DevOps | 🔄 In Progress | 🔄 In Progress | — | — |
+| 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/saayan-chowdhury-pop2004_devops-agenticai-linux-share-7527459087891140609-q3Ih/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKNFu0BzZBIwP_0LZpQ5nnIuLGv6FIOItw | https://medium.com/@saayanchowdhury/from-asking-ai-questions-to-building-ai-assisted-devops-workflows-014d4f40ece6?sharedUserId=saayanchowdhury |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
